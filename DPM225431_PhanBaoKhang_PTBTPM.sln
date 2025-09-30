@@ -5,39 +5,91 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern01_AbstractFactory", "DPM225431_PhanBaoKhang_PTBTPM\DPM225431_PhanBaoKhang_Pattern01_AbstractFactory.csproj", "{F9C5461C-45CC-4147-A2F8-9065866B9347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real01_AbstractFactory", "DPM225431_PhanBaoKhang_Real01_AbstractFactory\DPM225431_PhanBaoKhang_Real01_AbstractFactory.csproj", "{D7D62130-E0DB-4BAB-8330-77EC8AD0051F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real01_AbstractFactory", "DPM225431_PhanBaoKhang_Real01_AbstractFactory\DPM225431_PhanBaoKhang_Real01_AbstractFactory.csproj", "{D7D62130-E0DB-4BAB-8330-77EC8AD0051F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern02_Builder", "DPM225431_PhanBaoKhang_Pattern02_Builder\DPM225431_PhanBaoKhang_Pattern02_Builder.csproj", "{C30E343C-0030-445C-A8A0-632C3D05642A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern02_Builder", "DPM225431_PhanBaoKhang_Pattern02_Builder\DPM225431_PhanBaoKhang_Pattern02_Builder.csproj", "{C30E343C-0030-445C-A8A0-632C3D05642A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real02_Builder", "DPM225431_PhanBaoKhang_Real02_Builder\DPM225431_PhanBaoKhang_Real02_Builder.csproj", "{4DA75F97-7F60-4F13-B511-6CC760072A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real02_Builder", "DPM225431_PhanBaoKhang_Real02_Builder\DPM225431_PhanBaoKhang_Real02_Builder.csproj", "{4DA75F97-7F60-4F13-B511-6CC760072A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern03_FactoryMethod", "DPM225431_PhanBaoKhang_Pattern03_FactoryMethod\DPM225431_PhanBaoKhang_Pattern03_FactoryMethod.csproj", "{53D5477E-73E2-4B90-9010-5E9DBA66E5B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern03_FactoryMethod", "DPM225431_PhanBaoKhang_Pattern03_FactoryMethod\DPM225431_PhanBaoKhang_Pattern03_FactoryMethod.csproj", "{53D5477E-73E2-4B90-9010-5E9DBA66E5B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real03_FactoryMethod", "DPM225431_PhanBaoKhang_Real03_FactoryMethod\DPM225431_PhanBaoKhang_Real03_FactoryMethod.csproj", "{C5FF5872-AFE3-4DC0-99B5-CA6B0406FF00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real03_FactoryMethod", "DPM225431_PhanBaoKhang_Real03_FactoryMethod\DPM225431_PhanBaoKhang_Real03_FactoryMethod.csproj", "{C5FF5872-AFE3-4DC0-99B5-CA6B0406FF00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern04_Prototype", "DPM225431_PhanBaoKhang_Pattern04_Prototype\DPM225431_PhanBaoKhang_Pattern04_Prototype.csproj", "{DC149950-8A39-4BC9-8EC7-01453E9A0F6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern04_Prototype", "DPM225431_PhanBaoKhang_Pattern04_Prototype\DPM225431_PhanBaoKhang_Pattern04_Prototype.csproj", "{DC149950-8A39-4BC9-8EC7-01453E9A0F6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real04_Prototype", "DPM225431_PhanBaoKhang_Real04_Prototype\DPM225431_PhanBaoKhang_Real04_Prototype.csproj", "{FA959543-5749-47AD-A0A2-F796106D7609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real04_Prototype", "DPM225431_PhanBaoKhang_Real04_Prototype\DPM225431_PhanBaoKhang_Real04_Prototype.csproj", "{FA959543-5749-47AD-A0A2-F796106D7609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern05_Singleton", "DPM225431_PhanBaoKhang_Pattern05_Singleton\DPM225431_PhanBaoKhang_Pattern05_Singleton.csproj", "{449E45F2-7891-4E92-9C0D-1C7E8050040F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern05_Singleton", "DPM225431_PhanBaoKhang_Pattern05_Singleton\DPM225431_PhanBaoKhang_Pattern05_Singleton.csproj", "{449E45F2-7891-4E92-9C0D-1C7E8050040F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real05_Singleton", "DPM225431_PhanBaoKhang_Real05_Singleton\DPM225431_PhanBaoKhang_Real05_Singleton.csproj", "{6691480B-2A45-46E8-9351-F0B36B633796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real05_Singleton", "DPM225431_PhanBaoKhang_Real05_Singleton\DPM225431_PhanBaoKhang_Real05_Singleton.csproj", "{6691480B-2A45-46E8-9351-F0B36B633796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern06_Adapter", "DPM225431_PhanBaoKhang_Pattern06_Adapter\DPM225431_PhanBaoKhang_Pattern06_Adapter.csproj", "{C82B3EFF-F3F2-4867-BD60-71B723FDB377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern06_Adapter", "DPM225431_PhanBaoKhang_Pattern06_Adapter\DPM225431_PhanBaoKhang_Pattern06_Adapter.csproj", "{C82B3EFF-F3F2-4867-BD60-71B723FDB377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real06_Adapter", "DPM225431_PhanBaoKhang_Real06_Adapter\DPM225431_PhanBaoKhang_Real06_Adapter.csproj", "{30A1A1D6-0BC1-4FDC-9D97-7F6F49309EC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real06_Adapter", "DPM225431_PhanBaoKhang_Real06_Adapter\DPM225431_PhanBaoKhang_Real06_Adapter.csproj", "{30A1A1D6-0BC1-4FDC-9D97-7F6F49309EC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern07_Bridge", "DPM225431_PhanBaoKhang_Pattern07_Bridge\DPM225431_PhanBaoKhang_Pattern07_Bridge.csproj", "{9CA972CF-65BC-4237-821B-738016D40578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern07_Bridge", "DPM225431_PhanBaoKhang_Pattern07_Bridge\DPM225431_PhanBaoKhang_Pattern07_Bridge.csproj", "{9CA972CF-65BC-4237-821B-738016D40578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real07_Bridge", "DPM225431_PhanBaoKhang_Real07_Bridge\DPM225431_PhanBaoKhang_Real07_Bridge.csproj", "{CC1EAC84-8E22-4A04-8AD8-8EC822E9768E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real07_Bridge", "DPM225431_PhanBaoKhang_Real07_Bridge\DPM225431_PhanBaoKhang_Real07_Bridge.csproj", "{CC1EAC84-8E22-4A04-8AD8-8EC822E9768E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern08_Composite", "DPM225431_PhanBaoKhang_Pattern08_Composite\DPM225431_PhanBaoKhang_Pattern08_Composite.csproj", "{97FEE194-A702-4C7A-9F6E-B6FCDCC3A5B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern08_Composite", "DPM225431_PhanBaoKhang_Pattern08_Composite\DPM225431_PhanBaoKhang_Pattern08_Composite.csproj", "{97FEE194-A702-4C7A-9F6E-B6FCDCC3A5B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real08_Composite", "DPM225431_PhanBaoKhang_Real08_Composite\DPM225431_PhanBaoKhang_Real08_Composite.csproj", "{BA02C0D1-E732-4EFD-AA74-7CDF4A0E2D82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real08_Composite", "DPM225431_PhanBaoKhang_Real08_Composite\DPM225431_PhanBaoKhang_Real08_Composite.csproj", "{BA02C0D1-E732-4EFD-AA74-7CDF4A0E2D82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern09_Decorator", "DPM225431_PhanBaoKhang_Pattern09_Decorator\DPM225431_PhanBaoKhang_Pattern09_Decorator.csproj", "{BF6657BA-54A1-40C7-AD21-4B32A3FC88E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern09_Decorator", "DPM225431_PhanBaoKhang_Pattern09_Decorator\DPM225431_PhanBaoKhang_Pattern09_Decorator.csproj", "{BF6657BA-54A1-40C7-AD21-4B32A3FC88E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real09_Decorator", "DPM225431_PhanBaoKhang_Real09_Decorator\DPM225431_PhanBaoKhang_Real09_Decorator.csproj", "{53B3DE75-A882-4025-A7ED-4D49ABAB2522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real09_Decorator", "DPM225431_PhanBaoKhang_Real09_Decorator\DPM225431_PhanBaoKhang_Real09_Decorator.csproj", "{53B3DE75-A882-4025-A7ED-4D49ABAB2522}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern10_Facade", "DPM225431_PhanBaoKhang_Pattern10_Facade\DPM225431_PhanBaoKhang_Pattern10_Facade.csproj", "{5063DE7D-6520-42B7-B20A-B1B3AE89B800}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real10_Facade", "DPM225431_PhanBaoKhang_Real10_Facade\DPM225431_PhanBaoKhang_Real10_Facade.csproj", "{13434DC5-3623-487F-A9B5-21F3FE9907D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern11_Flyweight", "DPM225431_PhanBaoKhang_Pattern11_Flyweight\DPM225431_PhanBaoKhang_Pattern11_Flyweight.csproj", "{D6228D08-2350-45C6-A754-CE653BFEF8F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real11_Flyweight", "DPM225431_PhanBaoKhang_Real11_Flyweight\DPM225431_PhanBaoKhang_Real11_Flyweight.csproj", "{25DC3172-9932-44D8-844D-ECFA3F7067D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern12_Proxy", "DPM225431_PhanBaoKhang_Pattern12_Proxy\DPM225431_PhanBaoKhang_Pattern12_Proxy.csproj", "{B96FE13D-FD7F-430A-A88D-FA9DDDEFB7D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real12_Proxy", "DPM225431_PhanBaoKhang_Real12_Proxy\DPM225431_PhanBaoKhang_Real12_Proxy.csproj", "{E1B16022-922F-4291-B334-37F8F761AC40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern13_ChainofResponsibility", "DPM225431_PhanBaoKhang_Pattern13_ChainofResponsibility\DPM225431_PhanBaoKhang_Pattern13_ChainofResponsibility.csproj", "{CBD28DFC-310B-46A9-83B6-917F80D9A6ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real13_ChainofResponsibility", "DPM225431_PhanBaoKhang_Real13_ChainofResponsibility\DPM225431_PhanBaoKhang_Real13_ChainofResponsibility.csproj", "{0FF80E3E-4BF9-40F9-AD82-8F8AB2A410A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern14_Command", "DPM225431_PhanBaoKhang_Pattern14_Command\DPM225431_PhanBaoKhang_Pattern14_Command.csproj", "{FFF491A8-60E7-4BD1-B53D-B3B49FAF468C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real14_Command", "DPM225431_PhanBaoKhang_Real14_Command\DPM225431_PhanBaoKhang_Real14_Command.csproj", "{B5291091-0BC9-46E2-9E37-5549E5B62CB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Pattern15_Interpreter", "DPM225431_PhanBaoKhang_Pattern15_Interpreter\DPM225431_PhanBaoKhang_Pattern15_Interpreter.csproj", "{9E41C058-AA0F-4591-BF5E-D9A7AE5DE276}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225431_PhanBaoKhang_Real15_Interpreter", "DPM225431_PhanBaoKhang_Real15_Interpreter\DPM225431_PhanBaoKhang_Real15_Interpreter.csproj", "{CDCD46D2-A27C-494B-91CF-A9376B2A4350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern16_Iterator", "DPM225431_PhanBaoKhang_Pattern16_Iterator\DPM225431_PhanBaoKhang_Pattern16_Iterator.csproj", "{8A4B0F2B-4B51-44F2-A0AF-843ED41D9EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real16_Iterator", "DPM225431_PhanBaoKhang_Real16_Iterator\DPM225431_PhanBaoKhang_Real16_Iterator.csproj", "{00D013B5-A6B6-473D-991A-4B489B59422D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern17_Mediator", "DPM225431_PhanBaoKhang_Pattern17_Mediator\DPM225431_PhanBaoKhang_Pattern17_Mediator.csproj", "{31F7BAF0-8F37-4753-A014-5D19E9851546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real17_Mediator", "DPM225431_PhanBaoKhang_Real17_Mediator\DPM225431_PhanBaoKhang_Real17_Mediator.csproj", "{136DA4FC-2148-4A6B-8F7E-55C91E3F88A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern18_Memento", "DPM225431_PhanBaoKhang_Pattern18_Memento\DPM225431_PhanBaoKhang_Pattern18_Memento.csproj", "{ABC39D39-43B3-41B0-958B-41A60F0560C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real18_Memento", "DPM225431_PhanBaoKhang_Real18_Memento\DPM225431_PhanBaoKhang_Real18_Memento.csproj", "{B1FCA4F3-AB91-4CC2-9887-59F7F67BEAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern19_Observer", "DPM225431_PhanBaoKhang_Pattern19_Observer\DPM225431_PhanBaoKhang_Pattern19_Observer.csproj", "{0DCD4AF1-4EC4-466F-B11C-2F4D2A956EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real19_Observer", "DPM225431_PhanBaoKhang_Real19_Observer\DPM225431_PhanBaoKhang_Real19_Observer.csproj", "{9AC26473-4729-4A69-B88E-3136E2ACB911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern20_State", "DPM225431_PhanBaoKhang_Pattern20_State\DPM225431_PhanBaoKhang_Pattern20_State.csproj", "{A07261F6-2C9C-4422-8321-4A3F7FAAAED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real20_State", "DPM225431_PhanBaoKhang_Real20_State\DPM225431_PhanBaoKhang_Real20_State.csproj", "{1D16FF0B-40A6-4B43-94BD-C0D13B407C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern21_Strategy", "DPM225431_PhanBaoKhang_Pattern21_Strategy\DPM225431_PhanBaoKhang_Pattern21_Strategy.csproj", "{6CF59B7D-92EA-46F5-B720-C2F517C6C076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real21_Strategy", "DPM225431_PhanBaoKhang_Real21_Strategy\DPM225431_PhanBaoKhang_Real21_Strategy.csproj", "{720A5E18-2010-4CFA-9F83-BE4EF81DF482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Pattern22_TemplateMethod", "DPM225431_PhanBaoKhang_Pattern22_TemplateMethod\DPM225431_PhanBaoKhang_Pattern22_TemplateMethod.csproj", "{58D20E6E-E9A7-4C8C-9B6F-AEB752F9AE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225431_PhanBaoKhang_Real22_TemplateMethod", "DPM225431_PhanBaoKhang_Real22_TemplateMethod\DPM225431_PhanBaoKhang_Real22_TemplateMethod.csproj", "{22920E13-50D5-4895-B912-0F1FB17A791C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +169,110 @@ Global
 		{53B3DE75-A882-4025-A7ED-4D49ABAB2522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B3DE75-A882-4025-A7ED-4D49ABAB2522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B3DE75-A882-4025-A7ED-4D49ABAB2522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5063DE7D-6520-42B7-B20A-B1B3AE89B800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5063DE7D-6520-42B7-B20A-B1B3AE89B800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5063DE7D-6520-42B7-B20A-B1B3AE89B800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5063DE7D-6520-42B7-B20A-B1B3AE89B800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13434DC5-3623-487F-A9B5-21F3FE9907D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13434DC5-3623-487F-A9B5-21F3FE9907D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13434DC5-3623-487F-A9B5-21F3FE9907D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13434DC5-3623-487F-A9B5-21F3FE9907D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6228D08-2350-45C6-A754-CE653BFEF8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6228D08-2350-45C6-A754-CE653BFEF8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6228D08-2350-45C6-A754-CE653BFEF8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6228D08-2350-45C6-A754-CE653BFEF8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DC3172-9932-44D8-844D-ECFA3F7067D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DC3172-9932-44D8-844D-ECFA3F7067D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DC3172-9932-44D8-844D-ECFA3F7067D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DC3172-9932-44D8-844D-ECFA3F7067D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96FE13D-FD7F-430A-A88D-FA9DDDEFB7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96FE13D-FD7F-430A-A88D-FA9DDDEFB7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96FE13D-FD7F-430A-A88D-FA9DDDEFB7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96FE13D-FD7F-430A-A88D-FA9DDDEFB7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B16022-922F-4291-B334-37F8F761AC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B16022-922F-4291-B334-37F8F761AC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B16022-922F-4291-B334-37F8F761AC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B16022-922F-4291-B334-37F8F761AC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD28DFC-310B-46A9-83B6-917F80D9A6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD28DFC-310B-46A9-83B6-917F80D9A6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD28DFC-310B-46A9-83B6-917F80D9A6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD28DFC-310B-46A9-83B6-917F80D9A6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF80E3E-4BF9-40F9-AD82-8F8AB2A410A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF80E3E-4BF9-40F9-AD82-8F8AB2A410A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF80E3E-4BF9-40F9-AD82-8F8AB2A410A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF80E3E-4BF9-40F9-AD82-8F8AB2A410A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF491A8-60E7-4BD1-B53D-B3B49FAF468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF491A8-60E7-4BD1-B53D-B3B49FAF468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF491A8-60E7-4BD1-B53D-B3B49FAF468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF491A8-60E7-4BD1-B53D-B3B49FAF468C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5291091-0BC9-46E2-9E37-5549E5B62CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5291091-0BC9-46E2-9E37-5549E5B62CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5291091-0BC9-46E2-9E37-5549E5B62CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5291091-0BC9-46E2-9E37-5549E5B62CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E41C058-AA0F-4591-BF5E-D9A7AE5DE276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E41C058-AA0F-4591-BF5E-D9A7AE5DE276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E41C058-AA0F-4591-BF5E-D9A7AE5DE276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E41C058-AA0F-4591-BF5E-D9A7AE5DE276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCD46D2-A27C-494B-91CF-A9376B2A4350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCD46D2-A27C-494B-91CF-A9376B2A4350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCD46D2-A27C-494B-91CF-A9376B2A4350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCD46D2-A27C-494B-91CF-A9376B2A4350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4B0F2B-4B51-44F2-A0AF-843ED41D9EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4B0F2B-4B51-44F2-A0AF-843ED41D9EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4B0F2B-4B51-44F2-A0AF-843ED41D9EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4B0F2B-4B51-44F2-A0AF-843ED41D9EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D013B5-A6B6-473D-991A-4B489B59422D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D013B5-A6B6-473D-991A-4B489B59422D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D013B5-A6B6-473D-991A-4B489B59422D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D013B5-A6B6-473D-991A-4B489B59422D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F7BAF0-8F37-4753-A014-5D19E9851546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F7BAF0-8F37-4753-A014-5D19E9851546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F7BAF0-8F37-4753-A014-5D19E9851546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F7BAF0-8F37-4753-A014-5D19E9851546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136DA4FC-2148-4A6B-8F7E-55C91E3F88A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136DA4FC-2148-4A6B-8F7E-55C91E3F88A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136DA4FC-2148-4A6B-8F7E-55C91E3F88A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136DA4FC-2148-4A6B-8F7E-55C91E3F88A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC39D39-43B3-41B0-958B-41A60F0560C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC39D39-43B3-41B0-958B-41A60F0560C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC39D39-43B3-41B0-958B-41A60F0560C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC39D39-43B3-41B0-958B-41A60F0560C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FCA4F3-AB91-4CC2-9887-59F7F67BEAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FCA4F3-AB91-4CC2-9887-59F7F67BEAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FCA4F3-AB91-4CC2-9887-59F7F67BEAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FCA4F3-AB91-4CC2-9887-59F7F67BEAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCD4AF1-4EC4-466F-B11C-2F4D2A956EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCD4AF1-4EC4-466F-B11C-2F4D2A956EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCD4AF1-4EC4-466F-B11C-2F4D2A956EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCD4AF1-4EC4-466F-B11C-2F4D2A956EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC26473-4729-4A69-B88E-3136E2ACB911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC26473-4729-4A69-B88E-3136E2ACB911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC26473-4729-4A69-B88E-3136E2ACB911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC26473-4729-4A69-B88E-3136E2ACB911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07261F6-2C9C-4422-8321-4A3F7FAAAED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07261F6-2C9C-4422-8321-4A3F7FAAAED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07261F6-2C9C-4422-8321-4A3F7FAAAED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07261F6-2C9C-4422-8321-4A3F7FAAAED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D16FF0B-40A6-4B43-94BD-C0D13B407C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D16FF0B-40A6-4B43-94BD-C0D13B407C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D16FF0B-40A6-4B43-94BD-C0D13B407C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D16FF0B-40A6-4B43-94BD-C0D13B407C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF59B7D-92EA-46F5-B720-C2F517C6C076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF59B7D-92EA-46F5-B720-C2F517C6C076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF59B7D-92EA-46F5-B720-C2F517C6C076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF59B7D-92EA-46F5-B720-C2F517C6C076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720A5E18-2010-4CFA-9F83-BE4EF81DF482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720A5E18-2010-4CFA-9F83-BE4EF81DF482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720A5E18-2010-4CFA-9F83-BE4EF81DF482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720A5E18-2010-4CFA-9F83-BE4EF81DF482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D20E6E-E9A7-4C8C-9B6F-AEB752F9AE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D20E6E-E9A7-4C8C-9B6F-AEB752F9AE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D20E6E-E9A7-4C8C-9B6F-AEB752F9AE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D20E6E-E9A7-4C8C-9B6F-AEB752F9AE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22920E13-50D5-4895-B912-0F1FB17A791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22920E13-50D5-4895-B912-0F1FB17A791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22920E13-50D5-4895-B912-0F1FB17A791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22920E13-50D5-4895-B912-0F1FB17A791C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
